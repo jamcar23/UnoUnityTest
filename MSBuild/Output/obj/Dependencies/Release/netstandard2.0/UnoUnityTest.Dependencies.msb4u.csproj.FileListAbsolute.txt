@@ -1,2 +1,0 @@
-C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\Dependencies\netstandard2.0\UnoUnityTest.Dependencies.msb4u.deps.json
-C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\MSBuild\Output\obj\Dependencies\Release\netstandard2.0\UnoUnityTest.Dependencies.msb4u.csprojAssemblyReference.cache
