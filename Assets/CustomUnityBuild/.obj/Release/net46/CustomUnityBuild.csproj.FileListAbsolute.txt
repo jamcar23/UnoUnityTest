@@ -1,0 +1,5 @@
+C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\Plugins\Player\net46\CustomUnityBuild.dll
+C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\Plugins\Player\net46\CustomUnityBuild.pdb
+C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\Plugins\Player\net46\CustomUnityBuild.dll.meta
+C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\.obj\Release\net46\CustomUnityBuild.dll
+C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\.obj\Release\net46\CustomUnityBuild.pdb
