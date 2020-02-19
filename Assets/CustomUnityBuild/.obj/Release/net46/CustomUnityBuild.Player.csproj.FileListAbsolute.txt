@@ -1,6 +1,0 @@
-C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\Plugins\Editor\net46\CustomUnityBuild.dll
-C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\Plugins\Editor\net46\CustomUnityBuild.pdb
-C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\Plugins\Editor\net46\CustomUnityBuild.dll.meta
-C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\.obj\Release\net46\CustomUnityBuild.Player.csprojAssemblyReference.cache
-C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\.obj\Release\net46\CustomUnityBuild.dll
-C:\Users\jamca\Documents\Code\Unity\UnoUnityTest\Assets\CustomUnityBuild\.obj\Release\net46\CustomUnityBuild.pdb

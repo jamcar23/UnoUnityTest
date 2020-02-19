@@ -39,7 +39,7 @@
     <PropertyGroup>
     <!--anborod NOTE:: .obj is invisible to Unity, but Plugins isn't-->
     <BaseIntermediateOutputPath>.obj</BaseIntermediateOutputPath>
-    <OutputPath>Plugins/Editor</OutputPath>
+    <OutputPath>.Plugins/Editor</OutputPath>
   </PropertyGroup>
   
   <ItemGroup>
