@@ -3,7 +3,7 @@
   <Import Project="$([MSBuild]::GetPathOfFileAbove(MSBuildForUnity.Common.props))" Condition="Exists('$([MSBuild]::GetPathOfFileAbove(MSBuildForUnity.Common.props))')" />
     
   <PropertyGroup Condition="'$(UnityCurrentTargetFramework)' == ''">
-    <TargetFramework>net46</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   
   <PropertyGroup Condition="'$(UnityCurrentTargetFramework)' != ''">
@@ -66,7 +66,12 @@
     <!--anborod NOTE:: This references all source in .src (invisible to Unity) folder.-->
     <!--anborod NOTE:: Add your NuGet packages here.-->
     <Compile Include=".src\**\*.cs" />
-    <PackageReference Include="Uno.SourceGeneration" Version="1.5.0" />
+    <PackageReference Include="Uno.SourceGeneration" Version="1.29.0" />
+    <PackageReference Include="Uno.SourceGenerationTasks" Version="1.29.0" />
+    <Content Include="build\CustomUnityBuild.props">
+			<Pack>true</Pack>
+			<PackagePath>build</PackagePath>
+		</Content>
   </ItemGroup>
 
     <!--IMPORT SDK.targets-->

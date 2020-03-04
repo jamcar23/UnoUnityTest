@@ -1,0 +1,8 @@
+<Project>
+    <ItemGroup>
+        <SourceGenerator Include="$(MSBuildThisFileDirectory)..\.obj\$(Configuration)\net46\CustomUnityBuilf.dll"
+                Condition="Exists('$(MSBuildThisFileDirectory)..\.obj')" />
+        <!-- <SourceGenerator Include="$(MSBuildThisFileDirectory)..\tools\MyGenerator.dll"
+                Condition="Exists('$(MSBuildThisFileDirectory)..\tools')" /> -->
+    </ItemGroup>
+</Project>

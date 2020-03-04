@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e0fae381916c59d63a4cebdb9c164f54
+PluginImporter:
+  serializedVersion: 2
+  platformData:
+
+  - first:
+      Editor: Editor
+    second:
+      enabled: 1
+      settings: {}
+  executionOrder: {}
