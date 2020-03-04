@@ -4,5 +4,9 @@ using UnityEngine;
 
 public partial class PartialBehaviour : MonoBehaviour
 {
-    partial void Awake();
+    // partial void Awake();
+    private void Start() 
+    {
+        
+    }
 }

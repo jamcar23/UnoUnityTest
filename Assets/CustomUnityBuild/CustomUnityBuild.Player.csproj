@@ -76,6 +76,7 @@
     <!--anborod NOTE:: This references all source in .src (invisible to Unity) folder.-->
     <!--anborod NOTE:: Add your NuGet packages here.-->
     <Compile Include=".src\**\*.cs" />
+    <PackageReference Include="Uno.SourceGeneration" Version="1.5.0" />
   </ItemGroup>
 
     <!--IMPORT SDK.targets-->
